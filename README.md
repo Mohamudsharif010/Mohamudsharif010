@@ -1,12 +1,14 @@
 ### Hi there 👋
+I am Mohamud Mohamed a Full stack web developer with skills in HTML5, CSS3, JavaScript, React, Laravel.
+- 🔭 I’m currently working on a book borrowing and selling used books using Flutter.
+- 🌱 I’m currently learning Laravel Full Stack Web Development
 
 <!--
 **Mohamudsharif010/Mohamudsharif010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a book borrowing and selling used books using Flutter.
-- 🌱 I’m currently learning Laravel Full Stack Web Development
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am Mohamud Mohamed a Full stack web developer with skills in HTML5, CSS3, JavaScript, React, Laravel.
-- 🔭 I’m currently working on a book borrowing and selling used books using Flutter.
+I am Mohamud Mohamed a Full stack web developer with skills in HTML5, CSS3, JavaScript, React, Typescript, Laravel.
+- 🔭 I’m currently building an Employee Self Service system for where I work.
 - 🌱 I’m currently learning Laravel Full Stack Web Development
 
 <!--
